@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Sebastian Bitsch"
   pronouns         : # example: "she/her"  
-  bio              : "Computer Vision, Robitics, Deep Learning"
+  bio              : "Autonomous Systems, Deep Learning, Robotics, Computer Vision"
   location         : "Copenhagen"
-  employer         : "Technical University of Denmark (DTU)"
-  uri              : "http://dtu.dk"
+  employer         : "Technical University of Denmark"
+  uri              : # "http://dtu.dk"
   email            : "sebastianbitsch@protonmail.com" 
 
   # Academic websites
