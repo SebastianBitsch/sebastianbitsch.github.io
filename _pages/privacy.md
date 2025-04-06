@@ -1,10 +1,8 @@
 ---
-permalink: /
 title: "Privacy Policy"
 author_profile: false
-redirect_from: 
-  - /pp-privacy/
-  - /pp-privacy.html
+sitemap: false
+permalink: /pp-policy.html
 ---
 
 **Privacy Policy**
