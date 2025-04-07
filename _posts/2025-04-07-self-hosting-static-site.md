@@ -1,6 +1,6 @@
 ---
 title: 'Self-Hosting a Static Website'
-date: 2025-04-10
+date: 2025-04-07
 permalink: /posts/2025/04/self-hosting-static-website/
 tags:
   - website
@@ -8,6 +8,8 @@ tags:
   - server
   - code
 ---
+
+The simplest way of hosting your project from a home server
 
 # Background
 
